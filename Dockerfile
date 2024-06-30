@@ -1,5 +1,4 @@
-# Get Linux
-FROM centos:7
+
 
 # Install Java
 RUN yum update -y \
